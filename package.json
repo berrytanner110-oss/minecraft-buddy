@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-buddy",
+  "version": "2.0.0",
+  "description": "An advanced Minecraft companion bot with combat, farming, building, crafting, and AI features",
+  "main": "buddy.js",
+  "scripts": {
+    "start": "node buddy.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-pvp": "^1.3.2",
+    "mineflayer-collectblock": "^1.4.1",
+    "minecraft-data": "^3.67.0",
+    "vec3": "^0.1.10"
+  }
+}
